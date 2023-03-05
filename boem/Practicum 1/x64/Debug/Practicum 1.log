@@ -1,0 +1,16 @@
+﻿  main.cpp
+  pieces.cpp
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(9,8): warning C4183: 'move': missing return type; assumed to be a member function returning 'int'
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(10,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(10,14): warning C4183: 'valid_move': missing return type; assumed to be a member function returning 'int'
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(13,9): error C3646: 'wit': unknown override specifier
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(13,12): error C2143: syntax error: missing ',' before '['
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(13,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(14,9): error C3646: 'zwart': unknown override specifier
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(14,14): error C2143: syntax error: missing ',' before '['
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.h(14,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.cpp(5,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.cpp(9,1): error C2761: 'int Pieces::valid_move(void)': redeclaration of member is not allowed
+C:\Users\k54ka\Desktop\C++\Practicum 1\pieces.cpp(12,1): fatal  error C1004: unexpected end-of-file found
+  Generating Code...

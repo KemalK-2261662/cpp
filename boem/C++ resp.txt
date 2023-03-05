@@ -1,0 +1,12 @@
+member var altijd PRIVATE
+
+nadelen char pointer
+
+	char pointer is kut want je moet in de gaten houden dat er geen 0 is
+	char pointer zelf geheugen vrijgeven 
+
+std::string zelf geheugen + standaart functies
+
+int *getdata() == je geeft je info vrij want niet goed is
+
+stack push pop hebben dus int get element(int i ) niet goed

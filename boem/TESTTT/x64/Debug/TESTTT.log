@@ -1,0 +1,5 @@
+﻿  Header.cpp
+C:\Users\k54ka\Desktop\C++\TESTTT\Header.cpp(267,10): warning C4101: 's': unreferenced local variable
+  main.cpp
+  Generating Code...
+  TESTTT.vcxproj -> C:\Users\k54ka\Desktop\C++\TESTTT\x64\Debug\TESTTT.exe
