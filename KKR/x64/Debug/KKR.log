@@ -1,0 +1,16 @@
+﻿  Board.cpp
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(430,21): warning C4456: declaration of 'x_stappen' hides previous local declaration
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(393,13): message : see declaration of 'x_stappen'
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(430,59): warning C4456: declaration of 'y_stappen' hides previous local declaration
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(393,51): message : see declaration of 'y_stappen'
+  Game.cpp
+C:\Users\k54ka\Desktop\C++\KKR\Game.cpp(29,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k54ka\Desktop\C++\KKR\Game.cpp(130,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k54ka\Desktop\C++\KKR\Game.cpp(146,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Pieces.cpp
+  main.cpp
+  Generating Code...
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(282): warning C4715: 'Board::MV_Pawn': not all control paths return a value
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(332): warning C4715: 'Board::MV_Rook': not all control paths return a value
+C:\Users\k54ka\Desktop\C++\KKR\Board.cpp(455): warning C4715: 'Board::MV_Queen': not all control paths return a value
+  KKR.vcxproj -> C:\Users\k54ka\Desktop\C++\KKR\x64\Debug\KKR.exe
